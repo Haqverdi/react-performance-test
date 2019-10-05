@@ -1,5 +1,7 @@
 # React performance test
 
+## [Demo](https://react-performance-test.netlify.com)
+
 Project based on [Create React App](https://github.com/facebook/create-react-app).
 
 \*_Note that you will need to have [Node.js](https://nodejs.org) installed._
